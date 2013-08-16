@@ -1,4 +1,4 @@
-guidelines
+Guidelines
 ==========
 
-a set of practical examples for code reviews
+A set of practical examples for code reviews.
