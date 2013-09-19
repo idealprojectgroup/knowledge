@@ -1,0 +1,7 @@
+trap "" 2 3 19    # try to stop user getting to shell
+clear
+echo "Welcome to the shared tmux session"
+echo "You can enter 'Ctrl-a + d' to detach at any time or just close your terminal"
+echo -n "Press Enter to continue..." && read
+tmux -S /tmp/pair attach -r
+exit

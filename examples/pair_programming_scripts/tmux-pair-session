@@ -1,0 +1,23 @@
+#!/bin/sh
+
+tmux -S /tmp/pair new-session -s pair ' \
+  chmod 777 /tmp/pair \
+  && echo "
+Successfully set a pairing session!
+Check if port forwarding is successful in other window.
+
+Read only access:
+$ ssh -p 3001 tmux@local.developsta.com
+# pass: password123
+
+Writable access:
+$ ssh -p 3001 tmuxwrite@local.developsta.com
+# pass: tmux123
+
+" \
+  && /bin/bash \
+' \; new-window 'echo "Setting up port forwarding for remote session.
+
+" \
+  && ssh tmux_remote_pair \
+' \; select-window -p
