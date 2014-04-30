@@ -14,3 +14,10 @@ developer](http://peternixey.com/post/83510597580/how-to-be-a-great-software-dev
 - "Understand and appreciate the exquisite balance between too much testing and too little"
 - "Make your team better"
 - "Your contribution as a developer is defined not by the abstraction of how smart you are or how much you know. It’s not defined by the technology acronyms on your resume, the companies you’ve worked at or which college you went to. They hint at what you’re capable of but who you are is defined by what you do and how that changes the project and the people around you."
+
+The Great TDD Debate of 2014
+- DHH: [TDD is dead. Long live testing.](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
+- Uncle Bob: [Monogamous TDD](http://blog.8thlight.com/uncle-bob/2014/04/25/MonogamousTDD.html)
+- DHH: [Test-induced design damage](http://david.heinemeierhansson.com/2014/test-induced-design-damage.html)
+- Uncle Bob: [When TDD doesn't work.](http://blog.8thlight.com/uncle-bob/2014/04/30/When-tdd-does-not-work.html)
+- DHH: [Slow database test fallacy](http://david.heinemeierhansson.com/2014/slow-database-test-fallacy.html)
