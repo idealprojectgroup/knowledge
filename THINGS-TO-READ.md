@@ -22,3 +22,5 @@ The Great TDD Debate of 2014
 - Uncle Bob: [When TDD doesn't work.](http://blog.8thlight.com/uncle-bob/2014/04/30/When-tdd-does-not-work.html)
 - DHH: [Slow database test fallacy](http://david.heinemeierhansson.com/2014/slow-database-test-fallacy.html)
 - Gary Bernhardt: [TDD, Straw Men, and Rhetoric](https://www.destroyallsoftware.com/blog/2014/tdd-straw-men-and-rhetoric)
+- Uncle Bob: [Test Induced Design Damage?](http://blog.8thlight.com/uncle-bob/2014/05/01/Design-Damage.html)
+- Uncle Bob: [Professionalism and TDD (Reprise)](http://blog.8thlight.com/uncle-bob/2014/05/02/ProfessionalismAndTDD.html)
