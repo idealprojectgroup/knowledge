@@ -4,6 +4,12 @@
 - Pass no more than four parameters into a method. Hash options are parameters.
 - Controllers can instantiate only one object. Therefore, views can only know about one instance variable and views should only send messages to that object `@object.collaborator.value` is not allowed).
 
+[What I Wish I Knew When Starting Out as a Software Developer](http://blog.salsitasoft.com/what-i-wish-i-knew-when-starting-out-as-a-software-developer-slow-the-fuck-down/)
+- In response to this article: [What I Wish I Knew When I Started My Career as a Software Developer](http://lifehacker.com/what-i-wish-i-knew-when-i-started-my-career-as-a-softwa-1681002791)
+- "timeframes that seem absurdly bloated beforehand tend to look reasonable, even respectable, at the end of a project"
+- "projects fail far more often because the software never really works reliably than because they missed a tight market window"
+- "with all the details and pitfalls and tangents in plain sight, you can see that that the initial estimate was hopelessly unrealistic"
+
 [How to be a great software
 developer](http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer)
 - "Your value as a developer is measured not in the height of your peaks, but the area under your line"
