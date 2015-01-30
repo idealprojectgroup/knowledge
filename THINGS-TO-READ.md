@@ -10,8 +10,7 @@
 - "projects fail far more often because the software never really works reliably than because they missed a tight market window"
 - "with all the details and pitfalls and tangents in plain sight, you can see that that the initial estimate was hopelessly unrealistic"
 
-### [How to be a great software
-developer](http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer)
+### [How to be a great software developer](http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer)
 - "Your value as a developer is measured not in the height of your peaks, but the area under your line"
 - "Go deep before you go wide - learn your chosen stack inside out"
 - "Learn to detect the smell of bad code"
