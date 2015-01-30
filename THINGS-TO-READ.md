@@ -30,3 +30,7 @@ The Great TDD Debate of 2014
 - Gary Bernhardt: [TDD, Straw Men, and Rhetoric](https://www.destroyallsoftware.com/blog/2014/tdd-straw-men-and-rhetoric)
 - Uncle Bob: [Test Induced Design Damage?](http://blog.8thlight.com/uncle-bob/2014/05/01/Design-Damage.html)
 - Uncle Bob: [Professionalism and TDD (Reprise)](http://blog.8thlight.com/uncle-bob/2014/05/02/ProfessionalismAndTDD.html)
+
+[Remote-First Communication for Project Teams](http://spin.atomicobject.com/2015/01/30/remote-first-communication/)
+- "remote-first communication means preferring written, searchable methods of communication that work even when the sender and receiver aren’t engaged at the same time"
+- "Remote-first communication does not mean that your only communication should be written."
